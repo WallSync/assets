@@ -1,1 +1,1 @@
-# assets
+# web assets
